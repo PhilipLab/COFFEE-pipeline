@@ -1,5 +1,3 @@
 # COFFEE-pipeline
 
-This is the COFFEE (Connectome Operations For FSL ExEcution) pipeline, which integrates HCP preprocessing (including Freesurfer) of fMRI data (especially task fMRI), for integration with FSL FEAT statistical analysis on the Mac.
-
-By Mark McAvoy & Benjamin Philip at Washington University, 2021-2023.
+This is the depecrated COFFEE pipeline. If you are reading this message, please go to the software's new location at https://github.com/PhilipLab/OGRE-pipeline
